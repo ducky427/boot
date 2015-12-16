@@ -1,5 +1,9 @@
 # Changes
 
+## 2.6.0
+
+FIXME: changes go here.
+
 ## 2.5.0
 
 #### Breaking
